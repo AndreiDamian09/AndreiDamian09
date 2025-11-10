@@ -25,19 +25,16 @@ Sunt un student dedicat și entuziast, în căutare constantă de noi provocări
 - **JavaScript** (pentru web development)
 - **Java** (pentru aplicații robuste)
 - **SQL** (pentru gestionarea bazelor de date)
-- **C#** (în curs de învățare 🚀)
+- **C#** 
   
 
 ### 🌐 Tehnologii și tool-uri:
-- **HTML/CSS** (pentru crearea de interfețe atractive)
-- **Git/GitHub** (pentru gestionarea codului și colaborare)
-- **PHP + Laravel** (pentru dezvoltarea rapidă și eficientă a aplicațiilor web)
+- **HTML/CSS** 
+- **Git/GitHub** 
+- **PHP + Laravel** 
 - **Vue.js** (în curs de învățare 🚀)
 
-### 🧠 Alte abilități:
-- Rezolvarea de probleme de algoritmică
-- Gândire logică și analitică
-- Lucru în echipă și comunicare eficientă
+
 
 ---
 
