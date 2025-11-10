@@ -1,8 +1,8 @@
 # 👋 Bună, eu sunt Andrei Damian!
 
 ✨ **Student la Cibernetică, Statistică și Informatică Economică (ASE București)**  
-💻 **Pasionat de programare, tehnologie și rezolvarea de probleme**  
-🌍 **Domiciliu: Brebu, Prahova**  
+💻 **Pasionat de programare si tehnologie**  
+
 
 ---
 
