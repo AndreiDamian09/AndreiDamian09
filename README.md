@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Chisega Eduard</h1>
-<h3 align="center">Aspiring Software Engineer | Economic Informatics</h3>
+<h1 align="center">Hi 👋, I'm Andrei Damian</h1>
+<h3 align="center">Economic Informatics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edy-dec&label=Profile%20views&color=0e75b6&style=flat" alt="edy-dec" /> </p>
 
 - 🌱 I’m currently learning **Java,C, C#, C++, Oracle SQL,PL/SQL, Javascript, Python**
 
-- 📫 How to reach me **chisega.eduard@gmail.com**
+- 📫 How to reach me **buzatoiudamian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
